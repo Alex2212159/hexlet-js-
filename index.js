@@ -1,2 +1,2 @@
-import getResult from "./src/index.js";
-console.log(getResult());
+import getResult from './src/index.js'
+console.log(getResult())
